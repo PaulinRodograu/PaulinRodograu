@@ -1,4 +1,4 @@
-# 👋 Hello World, me nome é Paulo
+# 👋 Hello World, meu nome é Paulo
 
 💡 Apaixonado por transformar ideias em código funcional e interfaces incríveis.  
 🚀 Especialista em **HTML5**, **CSS3** e **JavaScript** - criando experiências web rápidas, responsivas e interativas.  
