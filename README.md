@@ -15,16 +15,16 @@
 ---
 
 ## 📊 GitHub Stats
-![Jilso GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Jilso GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulinRodograu&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulinRodograu&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🌎 Onde me encontrar
-- 📧 **Email:** seuemail@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-- 🌐 [Portfólio](https://seusite.com)
+- 📧 **Email:** pauloemaildecontato@gmail.com  
+- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/paulo-roberto-76540832a/))  
+- 🌐 [Portfólio]([https://seusite.com](https://paulinrodograu.github.io/Portifolio-Finalizado/))
 
 ---
 
-> ✨ *"Código limpo é poesia para quem entende a linguagem."*  
+> ✨ *"Let You Break My Hearth Again - Laufey"*  
