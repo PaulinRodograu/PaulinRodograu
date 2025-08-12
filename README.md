@@ -22,8 +22,8 @@
 
 ## 🌎 Onde me encontrar
 - 📧 **Email:** pauloemaildecontato@gmail.com  
-- 💼 [LinkedIn]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/paulo-roberto-76540832a/))  
-- 🌐 [Portfólio]([https://seusite.com](https://paulinrodograu.github.io/Portifolio-Finalizado/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/paulo-roberto-76540832a/)  
+- 🌐 [Portfólio](https://paulinrodograu.github.io/Portifolio-Finalizado/)
 
 ---
 
