@@ -1,16 +1,30 @@
-## Fala tu meu lindo
+# 👋 Hello World,me nome é Paulo
 
-<!--
-**PaulinRodograu/PaulinRodograu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Apaixonado por transformar ideias em código funcional e interfaces incríveis.  
+🚀 Especialista em **HTML5**, **CSS3** e **JavaScript** — criando experiências web rápidas, responsivas e interativas.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Minhas Skills
+<div style="display: flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+![Jilso GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Onde me encontrar
+- 📧 **Email:** seuemail@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/seu-perfil)  
+- 🌐 [Portfólio](https://seusite.com)
+
+---
+
+> ✨ *"Código limpo é poesia para quem entende a linguagem."*  
