@@ -8,6 +8,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="PRD-NodeJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="PRD-JSON" height="50" width="60" src="https://cdn.discordapp.com/attachments/1359646796158206072/1460860259441840169/json-file.png?ex=696873a3&is=69672223&hm=67004812b55676b90f0c1b5145001a930c3afb04305c78656edf89dabdae287b&">
   <img align="center" alt="PRD-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PRD-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PRD-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
