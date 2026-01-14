@@ -1,7 +1,7 @@
 # 👋 Olá, meu nome é Paulo
 
-💡 Apaixonado por transformar ideias em código funcional e interfaces incríveis.  
-🚀 Especialista em **HTML5**, **CSS3**, **JavaScript** e **Python** - criando experiências web rápidas, responsivas e interativas.  
+💡 Desenvolvedor com experiência em traduzir ideias em sistemas e interfaces intuitivas.
+🚀 Especialista em **HTML5**, **CSS3**, **JavaScript** e **Python**, priorizando desempenho, usabilidade e interatividade.
 
 ---
 
