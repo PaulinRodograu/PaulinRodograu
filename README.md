@@ -7,11 +7,11 @@
 ---
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="PRD-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PRD-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="PRD-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="PRD-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PRD-Python" height="30" width="30" src="https://cdn.discordapp.com/attachments/1359646796158206072/1460850980601073810/NetAcad_Logo_F1571E4CB015F.png?ex=69686aff&is=6967197f&hm=7aae2669da4a3c932e1775207867b10c37dd704771ec4120e9ca9db2e06ffef3&">
+  <img align="center" alt="PRD-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="PRD-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PRD-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PRD-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="PRD-Python" height="50" width="50" src="https://cdn.discordapp.com/attachments/1359646796158206072/1460850980601073810/NetAcad_Logo_F1571E4CB015F.png?ex=69686aff&is=6967197f&hm=7aae2669da4a3c932e1775207867b10c37dd704771ec4120e9ca9db2e06ffef3&">
 </div>
   
   ##
