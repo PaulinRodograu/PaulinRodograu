@@ -19,7 +19,7 @@
 <div> 
   <a href = "mailto:pauloemaildecontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-roberto-76540832a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://paulinrodograu.github.io/Portifolio-Finalizado/" target="_blank"><img src="https://img.shields.io/badge/-PORTIF%C3%93LIO-DimGrey?style=for-the-badge&color=%23696969" target="_blank"></a> 
+  <a href="https://paulinrodograu.github.io/Portifolio-Finalizado/" target="_blank"><img src="https://img.shields.io/badge/-PORTIFOLIO-DimGrey?style=for-the-badge&color=%23696969" target="_blank"></a> 
 </div>
 
 > ✨ *"Let You Break My Hearth Again" - Laufey*  
