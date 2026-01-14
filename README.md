@@ -27,4 +27,4 @@ Bot avançado que automatiza inscrições e whitelist. Coleta respostas em DM (t
 
 ---
 
-> ✨ *"Let You Break My Hearth Again - Laufey"*  
+> ✨ *"Let You Break My Hearth Again" - Laufey*  
