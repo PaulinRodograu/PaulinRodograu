@@ -1,6 +1,7 @@
 # 👋 Olá, meu nome é Paulo
 
 💡 Desenvolvedor com experiência em traduzir ideias em sistemas e interfaces intuitivas.
+
 🚀 Especialista em **HTML5**, **CSS3**, **JavaScript** e **Python**, priorizando desempenho, usabilidade e interatividade.
 
 ---
@@ -18,6 +19,7 @@
 <div> 
   <a href = "mailto:pauloemaildecontato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-roberto-76540832a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/paulo-roberto-76540832a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
