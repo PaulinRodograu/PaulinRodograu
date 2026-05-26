@@ -2,7 +2,7 @@
 
 💡 Desenvolvedor com experiência em traduzir ideias em sistemas e interfaces intuitivas.
 
-🚀 Especialista em **HTML5**, **CSS3**, **JavaScript** e **Python**, priorizando desempenho, usabilidade e interatividade.
+🚀 Especialista em **HTML5**, **CSS3**, **JavaScript**, **Python**, **NodeJS** e **JSON**, priorizando desempenho, usabilidade e interatividade.
 
 ---
 
